@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
           Build <span className="text-primary">Faster</span>, Deploy <span className="text-secondary">Smarter</span>
         </h1>
         <p className="text-xl text-textSecondary mb-10 max-w-2xl mx-auto animate-fade-in delay-200">
-          Unlock the power of instant development environments and seamless collaboration with Bolt.
+          Unlock the power of instant development environments and seamless collaboration with Bolt.DIY.
         </p>
         <div className="flex justify-center space-x-4 animate-fade-in delay-400">
           <a href="#get-started" className="px-8 py-3 bg-primary text-text font-semibold text-lg rounded-xl hover:bg-opacity-90 transition-colors duration-300 shadow-lg">
